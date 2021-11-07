@@ -1,6 +1,6 @@
 This is a list of helpful tools, tutorials and online loot. I will update it in time. </br>Feel free to have a look around! :floppy_disk: :wave:
 
-## Getting started with coding & learning resources: 
+### Getting started with coding & learning resources: 
 
 * [freecodecamp](https://www.freecodecamp.org/)
 * [w3school](https://www.w3schools.com/)
@@ -12,7 +12,7 @@ This is a list of helpful tools, tutorials and online loot. I will update it in 
 * [khan Academy](https://www.khanacademy.org/)
 
 
-## Written documentation
+### Written documentation
 
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 * [Tutorial Republic](https://www.tutorialrepublic.com/)
@@ -20,18 +20,18 @@ This is a list of helpful tools, tutorials and online loot. I will update it in 
 
 
 
-## Markdown guides & google search
+### Markdown guides & google search
 
 * [Markdown guide](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops#mathematical-notation-and-characters "Markdown guide")
 * [Mastering markdown](https://guides.github.com/features/mastering-markdown/ "Mastering markdown github")
 * [How to Google](https://www.youtube.com/watch?v=cEBkvm0-rg0&ab_channel=Fireship "How to Google It like a Senior Software Engineer")
 
-## Online Tools
+### Online Tools
 
 * [online GDB](https://www.onlinegdb.com/)
 * [online calculator (K-Map solver)](https://getcalc.com/karnaugh-map/4variable-kmap-solver.htm?input=1+4+5+6+7+11+12+14)
 
-## Linux & VM install
+### Linux & VM install
 
 * [Virtual box download](https://www.virtualbox.org/wiki/Downloads "Virtual box download")
 * [Linux installation guide - verify ISO](https://linuxmint-installation-guide.readthedocs.io/en/latest/verify.html "Linux installation guide - verify ISO")
@@ -42,7 +42,7 @@ This is a list of helpful tools, tutorials and online loot. I will update it in 
 * [you need to learn Virtual Machines RIGHT NOW](https://www.youtube.com/watch?v=wX75Z-4MEoM "you need to learn Virtual Machines RIGHT NOW")
 * [Linux for Hackers // FREE Linux course for beginners](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&ab_channel=NetworkChuck "Linux for Hackers // EP 1 (FREE Linux course for beginners)")
 
-## Assembly & DOSBox
+### Assembly & DOSBox
 
 * [DOSBox-X](https://dosbox-x.com/)
 * ["Hello, World" in x86 Assembly Language](https://montcs.bloomu.edu/Information/LowLevel/Assembly/hello-asm.html)
