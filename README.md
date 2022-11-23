@@ -1,4 +1,4 @@
-This is a list of helpful tools, tutorials and online loot. I will update it in time. </br>Feel free to have a look around! :floppy_disk: :wave:
+Resources || [About](https://github.com/SharpAdder/SharpAdder/blob/main/README.md) || [Table of contents](https://github.com/SharpAdder/repo-table-of-contents/blob/main/README.md)
 
 ### Getting started with coding & learning resources: 
 
